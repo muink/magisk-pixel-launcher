@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=magisk-pixel-launcher
+name=Magisk Pixel Launcher
+version=ODR-4023749
 versionCode=1
-author=topjohnwu
-description=A short description
+author=muink
+description=Magisk Pixel Launcher
 template=1400
